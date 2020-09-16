@@ -10,7 +10,7 @@ def using_uniq(arr)
   arr.uniq
 end
 
-def using flatten(arr)
+def using_flatten(arr)
   arr.flatten
 end
 
